@@ -1,5 +1,5 @@
 <?php
-$started = date("d/m/Y H:i:s");
+$started = date("Y-m-d H:i:s");
 
 $botToken = '<insert bot token here>';
 
